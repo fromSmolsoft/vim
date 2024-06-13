@@ -1,0 +1,856 @@
+# Tento viminfo soubor byl vytvořen editorem Vim 9.1.
+# Pokud budete opatrný, můžete jej upravovat.
+
+# Viminfo version
+|1,4
+
+# Hodnota volby 'encoding' v době uložení tohoto souboru
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Last Search Pattern:
+~MSle0~/clipboard
+
+# Poslední nahrazující řetězec:
+$
+
+# Historie příkazové řádky (počínaje nejnovější položkou):
+:q
+|2,0,1718309174,,"q"
+:edit vimfiles\.vimrc
+|2,0,1718308845,,"edit vimfiles\\.vimrc"
+:edit .vimrc
+|2,0,1718308676,,"edit .vimrc"
+:echo $home
+|2,0,1718308637,,"echo $home"
+:echo $vim
+|2,0,1718308628,,"echo $vim"
+:echo $Home
+|2,0,1718308615,,"echo $Home"
+:w
+|2,0,1718264162,,"w"
+:wq
+|2,0,1718136237,,"wq"
+:h clipboard
+|2,0,1718133959,,"h clipboard"
+:h "clipboard"
+|2,0,1718133948,,"h \"clipboard\""
+:q!
+|2,0,1718134315,,"q!"
+:Q
+|2,0,1718133310,,"Q"
+:scriptnames
+|2,0,1717054894,,"scriptnames"
+:verbose set
+|2,0,1717054822,,"verbose set"
+:verbose set optionname?
+|2,0,1717054737,,"verbose set optionname?"
+:echo has('clipboard')
+|2,0,1716989827,,"echo has('clipboard')"
+:edit _vimrc
+|2,0,1716970797,,"edit _vimrc"
+:edit vmrc
+|2,0,1716970588,,"edit vmrc"
+:edit vmrv
+|2,0,1716970553,,"edit vmrv"
+:help
+|2,0,1716442056,,"help"
+:tabnew
+|2,0,1716045594,,"tabnew"
+:tabprevious
+|2,0,1716045587,,"tabprevious"
+:gT
+|2,0,1716045575,,"gT"
+:gp
+|2,0,1716045502,,"gp"
+:gt
+|2,0,1716045498,,"gt"
+:tabnew Plugin\ manager
+|2,0,1716045394,,"tabnew Plugin\\ manager"
+:w Plugin manager
+|2,0,1716045365,,"w Plugin manager"
+:w 'Plugin manager'
+|2,0,1716044911,,"w 'Plugin manager'"
+:w "Plugin manager.md"
+|2,0,1716044595,,"w \"Plugin manager.md\""
+:tabnew "Plugin manager"
+|2,0,1716044523,,"tabnew \"Plugin manager\""
+:yy
+|2,0,1716046343,,"yy"
+:*yy
+|2,0,1716046328,,"*yy"
+:set clipboard+=unnamedplus
+|2,0,1716045845,,"set clipboard+=unnamedplus"
+:+yy
+|2,0,1716045649,,"+yy"
+:vimrc -h
+|2,0,1716041862,,"vimrc -h"
+:w!
+|2,0,1716029140,,"w!"
+:edit vimrc
+|2,0,1716029083,,"edit vimrc"
+:PlugInstall YouCompleteMe
+|2,0,1715371402,,"PlugInstall YouCompleteMe"
+:ls
+|2,0,1715371651,,"ls"
+:cd YouCompleteMe
+|2,0,1715371634,,"cd YouCompleteMe"
+:he VIMRC-intro
+|2,0,1715328309,,"he VIMRC-intro"
+:PluginInstall
+|2,0,1715327566,,"PluginInstall"
+:'<,'>q
+|2,0,1715327370,,"'<,'>q"
+:he vimrc-intro
+|2,0,1715326643,,"he vimrc-intro"
+:edit $MYVIMRC
+|2,0,1715327046,,"edit $MYVIMRC"
+:s
+|2,0,1715157108,,"s"
+:w Database.md
+|2,0,1712922017,,"w Database.md"
+:w installTemurin.txt
+|2,0,1712306763,,"w installTemurin.txt"
+:set compatible?
+|2,0,1712240786,,"set compatible?"
+:h lex
+|2,0,1711569756,,"h lex"
+
+# Historie vyhledávaných řetězců (počínaje nejnovější položkou):
+?/clipboard
+|2,1,1718134061,47,"clipboard"
+? \<CREATE\>
+|2,1,1716989885,,"\\<CREATE\\>"
+?/Git
+|2,1,1716969366,47,"Git"
+? \<plugin\>
+|2,1,1716046364,,"\\<plugin\\>"
+? \<Plug\>
+|2,1,1716046320,,"\\<Plug\\>"
+?/Datab
+|2,1,1715501163,47,"Datab"
+? \<28\>
+|2,1,1715158480,,"\\<28\\>"
+? \<7\>
+|2,1,1715158480,,"\\<7\\>"
+? \<53\>
+|2,1,1715158480,,"\\<53\\>"
+? \<worldHello\>
+|2,1,1715157139,,"\\<worldHello\\>"
+? \<Hello\>
+|2,1,1715157139,,"\\<Hello\\>"
+? \<world�4\>
+|2,1,1715157117,,"\\<world�4\\>"
+? \<�4\>
+|2,1,1715157117,,"\\<�4\\>"
+? \<worldworld\>
+|2,1,1715157117,,"\\<worldworld\\>"
+? \<world\>
+|2,1,1715157097,,"\\<world\\>"
+?/8#-8#,8i
+|2,1,1715156951,47,"8#-8#,8i"
+? ^\w\+\%(\%(\s*->\s*\)\w\+\)*$
+|2,1,1712216311,,"^\\w\\+\\%(\\%(\\s*->\\s*\\)\\w\\+\\)*$"
+?/explorer
+|2,1,1711569481,47,"explorer"
+? @$
+|2,1,1711570399,,"@$"
+?/tab
+|2,1,1711531230,47,"tab"
+
+# Historie výrazů (počínaje nejnovější položkou):
+
+# Historie vstupní řádky (počínaje nejnovější položkou):
+
+# Historie Debug Line (počínaje nejnovější položkou):
+
+# Registry:
+"0	LINE	0
+	*.jpg
+|3,0,0,1,1,0,1718134321,"*.jpg"
+""1	LINE	0
+	
+|3,1,1,1,1,0,1718264158,""
+"2	LINE	0
+	
+|3,0,2,1,1,0,1718264154,""
+"3	LINE	0
+	Baby Mere Birthday Pe Goli Chalegi (Official Video)｜ Baby Tere Birthday Pr ｜Pranjal Dahiya Song 2022.mp3
+|3,0,3,1,1,0,1718264101,"Baby Mere Birthday Pe Goli Chalegi (Official Video)｜ Baby Tere Birthday Pr ｜Pranjal Dahiya Song 2022.mp3"
+"4	LINE	0
+	# other
+|3,0,4,1,1,0,1718134777,"# other"
+"5	LINE	0
+	/Rekonstrukce/Polepy_36_PP_reconstrukce - kopie.dwg
+|3,0,5,1,1,0,1718134747,"/Rekonstrukce/Polepy_36_PP_reconstrukce - kopie.dwg"
+"6	LINE	0
+	/Rekonstrukce/Polepy_36_PP_reconstrukce - kopie.dwg
+|3,0,6,1,1,0,1718134715,"/Rekonstrukce/Polepy_36_PP_reconstrukce - kopie.dwg"
+"7	LINE	0
+	
+|3,0,7,1,1,0,1718134488,""
+"8	LINE	0
+	/Původní stav/Old/Polepy_36_PP~.dwg
+|3,0,8,1,1,0,1718134486,"/Původní stav/Old/Polepy_36_PP~.dwg"
+"9	LINE	0
+	To put the yanked or deleted text, move the cursor to the desired location and press p to put (paste) the text after the cursor or P to put (paste) before the cursor.
+|3,0,9,1,1,0,1718133597,"To put the yanked or deleted text, move the cursor to the desired location and press p to put (paste) the text after the cursor or P to put (paste) before the cursor."
+"q	CHAR	0
+	
+|3,0,26,0,1,0,1718134555,""
+"-	CHAR	0
+	/
+|3,0,36,0,1,0,1718134541,"/"
+
+# Souborové značky:
+'0  44  0  ~\vimfiles\viminfo
+|4,48,44,0,1718309174,"~\\vimfiles\\viminfo"
+'1  1  0  ~\java0.log
+|4,49,1,0,1718309101,"~\\java0.log"
+'2  1  0  ~\java0.log
+|4,50,1,0,1718309079,"~\\java0.log"
+'3  1  0  ~\java0.log
+|4,51,1,0,1718309071,"~\\java0.log"
+'4  1  0  ~\java0.log
+|4,52,1,0,1718309071,"~\\java0.log"
+'5  21  0  ~\java0.log
+|4,53,21,0,1718308853,"~\\java0.log"
+'6  21  0  ~\java0.log
+|4,54,21,0,1718308853,"~\\java0.log"
+'7  21  0  ~\java0.log
+|4,55,21,0,1718308853,"~\\java0.log"
+'8  21  0  ~\java0.log
+|4,56,21,0,1718308853,"~\\java0.log"
+'9  21  0  ~\java0.log
+|4,57,21,0,1718308853,"~\\java0.log"
+
+# Seznam skoků (počínaje nejnovější položkou):
+-'  44  0  ~\vimfiles\viminfo
+|4,39,44,0,1718309174,"~\\vimfiles\\viminfo"
+-'  1  0  ~\vimfiles\viminfo
+|4,39,1,0,1718309144,"~\\vimfiles\\viminfo"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309101,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309101,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309079,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309079,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309071,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718309071,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308853,"~\\java0.log"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  1  0  ~\vimfiles\.vimrc
+|4,39,1,0,1718308848,"~\\vimfiles\\.vimrc"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308845,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308845,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308773,"~\\java0.log"
+-'  21  0  ~\java0.log
+|4,39,21,0,1718308773,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\java0.log
+|4,39,1,0,1718308714,"~\\java0.log"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+-'  1  0  ~\.vimrc
+|4,39,1,0,1718308710,"~\\.vimrc"
+
+# Historie značek v souborech (počínaje nejnovější položkou):
+
+> ~\vimfiles\viminfo
+	*	1718309172	0
+	"	44	0
+
+> ~\java0.log
+	*	1718309099	0
+	"	1	0
+
+> ~\vimfiles\.vimrc
+	*	1718308845	0
+	"	1	0
+
+> ~\.vimrc
+	*	1718308676	0
+	"	1	0
+
+> D:\Music\Mix\Mix_playlist.m3u
+	*	1718264275	0
+	"	1	0
+
+> D:\Music\Mix\Mix_playlist.pls
+	*	1718264220	0
+	"	1	0
+
+> D:\Music\Mix\delete.txt
+	*	1718264162	0
+	"	1	0
+	.	1	0
+	+	1	0
+	+	1	1
+	+	1	0
+	+	5	0
+	+	1	0
+
+> ~\_vimrc
+	*	1718136231	0
+	"	16	38
+	^	5	0
+	.	3	0
+	+	1	125
+	+	1	31
+	+	7	16
+	+	4	28
+	+	2	22
+	+	2	9
+	+	7	9
+	+	8	29
+	+	9	0
+	+	3	24
+	+	2	0
+	+	10	15
+	+	12	0
+	+	1	1
+	+	16	38
+	+	3	0
+	+	2	0
+	+	4	0
+	+	3	0
+
+> ~\Projects\Polepy_36\.gitignore
+	*	1718134794	0
+	"	12	0
+	^	12	0
+	.	13	0
+	+	1	0
+	+	1	12
+	+	1	10
+	+	12	37
+	+	12	1
+	+	16	5
+	+	12	0
+	+	9	0
+	+	10	0
+	+	16	0
+	+	1	11
+	+	7	0
+	+	1	6
+	+	3	6
+	+	1	13
+	+	5	11
+	+	11	0
+	+	13	0
+	+	13	6
+	+	13	0
+	+	16	4
+	+	17	0
+	+	16	5
+	+	20	0
+	+	19	1
+	+	13	0
+
+> C:\Applications\Vim\vim\vim91\doc\gui.txt
+	*	1718134131	0
+	"	473	46
+
+> ~\_viminfo
+	*	1718133310	0
+	"	1	0
+
+> ~\Projects\Polepy_36\Rekonstrukce\.gitignore
+	*	1718132065	0
+	"	1	17
+	^	1	18
+	.	1	17
+	+	1	17
+
+> ~\Documents\Notes\Development\Spring Boot 3, Spring 6 & Hibernate for Beginners\Ω-attachments\PlantUmlDefault.puml
+	*	1717743264	0
+	"	19	9
+
+> ~\Documents\Notes\Development\.gitignore
+	*	1717055157	0
+	"	1	0
+	^	7	1
+	.	7	0
+	+	7	0
+
+> ~\Development\Courses\spring-boot-3-spring-6-hibernate-for-beginners Udemy\04-spring-boot-rest-crud\employee-directory.sql
+	*	1716989913	0
+	"	1	0
+
+> ~\vmrc
+	*	1716970588	0
+	"	1	0
+
+> ~\vmrv
+	*	1716970553	0
+	"	1	0
+
+> ~\vimfiles\colors\dracula.vim
+	*	1716970335	0
+	"	139	0
+	.	1	0
+	+	107	21
+	+	1	0
+
+> ~\Documents\Notes\Development\Spring Boot 3, Spring 6 & Hibernate for Beginners\04-REST CRUD APIs.md
+	*	1716969563	0
+	"	1053	35
+	.	1117	273
+	+	1117	273
+
+> C:\Applications\Vim\vim\vim91\doc\help.txt
+	*	1716442223	0
+	"	138	0
+
+> ~\Documents\Notes\Notes\Nemovitosti\Dům Polepy 36\K-rekonstrukci.md.2023-07-26_07.54.26.foldersync.old
+	*	1716188518	0
+	"	37	0
+
+> ~\Documents\Notes\Notes\Nemovitosti\Dům Polepy 36\K-rekonstrukci.md
+	*	1716188481	0
+	"	36	19
+
+> ~\Documents\Notes\Notes\Nemovitosti\Dům Polepy 36\Okna.md.2023-07-26_22.05.46.foldersync.old
+	*	1716188438	0
+	"	28	22
+
+> ~\Documents\Notes\Notes\.git\config
+	*	1716188293	0
+	"	16	23
+	^	12	28
+	.	12	27
+	+	12	27
+
+> ~\Documents\Notes\Development\.git\config
+	*	1716187066	0
+	"	8	27
+	^	8	28
+	.	8	27
+	+	8	27
+
+> ~\Documents\Notes\Development\Tools\Vim\Plugin manager.md
+	*	1716059734	0
+	"	2	0
+	^	2	0
+	.	1	16
+	+	1	16
+
+> ~\Documents\Notes\Development\Tools\Vim\.'Plugin manager'
+	*	1716059599	0
+	"	1	0
+
+> ~\Documents\Notes\Development\Tools\Vim\!Vim.md
+	*	1716047311	0
+	"	1	2
+	.	2	0
+	+	1	26
+	+	1	61
+	+	1	97
+	+	2	0
+
+> ~\Documents\Notes\Development\Tools\Vim\Plugin manager
+	*	1716046801	0
+	"	3	0
+	^	6	42
+	.	6	41
+	+	2	0
+	+	8	0
+	+	7	2
+	+	9	2
+	+	7	5
+	+	9	3
+	+	5	0
+	+	6	0
+	+	5	0
+	+	6	41
+
+> ~\Documents\Notes\Development\Tools\Vim\'Plugin manager'
+	*	1716045372	0
+	"	1	14
+	^	2	0
+	.	2	0
+	+	2	0
+
+> ~\vimrc
+	*	1716028005	0
+	"	1	0
+
+> ~\.wslconfig
+	*	1715859413	0
+	"	3	54
+	^	3	55
+	.	3	54
+	+	1	6
+	+	2	36
+	+	3	54
+
+> ~\Development\Java\itnetworks\Database\JDBC\JDBC_MySQL\src\MyConst.java
+	*	1715501357	0
+	"	10	0
+
+> ~\Development\Java\itnetworks\Database\JDBC\JDBC_MySQL\src\DB\Query.java
+	*	1715501163	0
+	"	1	0
+
+> ~\Development\Java\itnetworks\Database\JDBC\JDBC_MySQL\src\DB\Database.java
+	*	1715501126	0
+	"	1	0
+
+> ~\Dropbox\BATCH\MySQL\MySQL start.bat
+	*	1715500768	0
+	"	1	0
+
+> ~\Dropbox\BATCH\PosgreSQL\PostGreSql_Start.bat
+	*	1715500593	0
+	"	1	0
+
+> ~\vimfiles\plugged\YouCompleteMe\install.py
+	*	1715371846	0
+	"	1	0
+
+> ~\Development\Projects\Renter\.gitignore
+	*	1715349594	0
+	"	1	0
+
+> C:\Applications\Vim\vim\vim91\doc\usr_05.txt
+	*	1715328343	0
+	"	261	56
+
+> ~\vimfiles\autoload\plug.vim
+	*	1715328074	0
+	"	36	0
+
+> ~\.viminfo
+	*	1715326504	0
+	"	71	0
+
+> ~\Development\Java\playground\test\text.txt
+	*	1715158480	0
+	"	1	253
+	^	1	524
+	.	1	523
+	+	9	5
+	+	6	4
+	+	4	0
+	+	7	0
+	+	5	0
+	+	3	11
+	+	2	17
+	+	1	45
+	+	1	0
+	+	2	0
+	+	1	523
+
+> C:\Applications\MotionBox\.gitignore
+	*	1714728902	0
+	"	4	1
+	^	4	2
+	.	4	0
+	+	1	5
+	+	2	5
+	+	3	3
+	+	4	0
+
+> ~\Development\Java\playground\FloorHeating\HeatCalc\Documention\DB_scheme.md
+	*	1712922055	0
+	"	3	0
+	^	3	0
+	.	4	0
+	+	30	7
+	+	1	10
+	+	31	2
+	+	4	0
+	+	3	17
+	+	1	10
+	+	4	0
+
+> ~\Development\Java\playground\FloorHeating\HeatCalc\Plan.md
+	*	1712921738	0
+	"	20	27
+	^	6	0
+	.	5	0
+	+	5	0
+
+> ~\.smol\database\database.db(drop old tables).sql
+	*	1712584683	0
+	"	5	12
+
+> ~\.smol\database\database.db.sql
+	*	1712584425	0
+	"	1	0
+
+> ~\installTemurin.txt
+	*	1712306763	0
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	109
+	+	1	1
+
+> ~\Development\Courses\spring-boot-3-spring-6-hibernate-for-beginners Udemy\01-spring-boot-overview\README.MD
+	*	1712240836	0
+	"	5	0
+	^	5	0
+	.	4	209
+	+	3	27
+	+	3	127
+	+	4	0
+	+	3	1
+	+	4	2
+	+	4	209
+
+> ~\Development\Courses\spring-boot-3-spring-6-hibernate-for-beginners Udemy\01-spring-boot-overview\.README.MD.un~
+	*	1712240411	0
+	"	1	0
+
+> C:\Applications\Vim\vim\_vimrc
+	*	1712216330	0
+	"	24	0
+
+> ~\Development\Libraries\Java\spring-boot\spring-boot\option-window
+	*	1712216324	0
+	"	40	51
+	.	1037	0
+	+	1037	0
+
+> ~\Development\Libraries\Java\spring-boot\spring-boot\Highlight test
+	*	1712216311	0
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~\Development\Libraries\Java\spring-boot\spring-boot\README.adoc
+	*	1712216186	0
+	"	29	0
+
+> ~\Development\Java\Apps\LunchMe\UML\diagram.uml
+	*	1712215796	0
+	"	1	0
+
+> ~\Development\IdeaProjects\Apps\LunchMe\UML\diagram.drawio
+	*	1712215784	0
+	"	6	0
+
+> ~\.gitconfig
+	*	1711871227	0
+	"	23	19
+
+> ~\Documents\Projects\Polepy_36\.gitignore
+	*	1711813920	0
+	"	3	5
+	^	3	6
+	.	3	5
+	+	4	0
+	+	2	6
+	+	3	5
+
+> ~\.gradle\notifications\8.0\release-features.rendered
+	*	1711570393	0
+	"	1	0
+
+> C:\Applications\Vim\vim\vim91\doc\quickfix.txt
+	*	1711569795	0
+	"	353	35
+
+> C:\Applications\Vim\vim\vim91\doc\usr_12.txt
+	*	1711569392	0
+	"	1	19
+
+> C:\Applications\Vim\vim\vim91\doc\tabpage.txt
+	*	1711531843	0
+	"	204	0
+
+> ~\Music\ATB - All The Best\00._ATB & RuDee_-_All The Best                                                                        www.0dayrelease.com - Best 0day Dance Musics.nfo
+	*	1711529877	0
+	"	74	15
+
+> ~\Dropbox\Dokumenty\Moje\MAL\List back up\animelist_1711098879_-_419313.xml
+	*	1711099196	0
+	"	292	53
+	.	292	27
+	+	268	46
+	+	292	27
+
+> ~\Downloads\vimTest.txt
+	*	1710538118	0
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	22
+	+	2	7
+	+	1	9
+	+	1	25
