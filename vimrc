@@ -28,7 +28,7 @@ set laststatus=2 	" Height of status bar
 set statusline=%f 	" Tail of the filename
 set cmdheight=2		" Show cmd line message like error message
 set number		" Line numbers
-" set cursorline 		"Highlight cursor line
+" set cursorline 	" Highlight cursor line
 
 
 " String operations
@@ -37,3 +37,8 @@ set incsearch 		" Highlight search string matches
 set ignorecase 		" Ignore case sensitivity during search
 set smartcase 		" Override the ignore case setting when searching for capital letters
 set hlsearch 		" highlight matches, in normal mode try typing * or even g* when cursor on string
+
+# Spellcheking
+set spell spelllang=en,cz 	" enable spell check, set language
+" set spellfile=$HOME/.vim/spell/en.utf-8.add
+
