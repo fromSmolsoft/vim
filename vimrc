@@ -48,6 +48,6 @@ set smartcase 		" Override the ignore case setting when searching for capital le
 set hlsearch 		" highlight matches, in normal mode try typing * or even g* when cursor on string
 
 " Spellcheking
-set spell spelllang=en,cz 	" enable spell check, set language
+set spell spelllang=en,cs	" enable spell check, set language
 " set spellfile=$HOME/.vim/spell/en.utf-8.add
 
