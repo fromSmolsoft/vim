@@ -17,6 +17,12 @@ Plug 'itchyny/lightline.vim'
 " Linter
 Plug 'dense-analysis/ale' 
 
+" Git wrapper
+Plug 'tpope/vim-fugitive'
+
+" Undo visualisation
+Plug 'mbbill/undotree'
+
 " Autocompletion plugin
 
 " Plug 'Valloric/YouCompleteMe' " Multiple external dependencies needed (Visual Studio Build Tools 2019 CMake, Python, go, node and npm.
