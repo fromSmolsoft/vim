@@ -4,6 +4,7 @@
 *.swo
 .netrwhist
 .git
+.github
 
 # Always include
 !plugged/*
