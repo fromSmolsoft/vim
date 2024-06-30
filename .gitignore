@@ -3,6 +3,7 @@
 *.swp
 *.swo
 .netrwhist
+.git
 
 # Always include
 !plugged/*
