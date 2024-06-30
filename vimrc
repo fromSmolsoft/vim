@@ -33,7 +33,7 @@ Plug 'ervandew/supertab'	" use <Tab> to insert autocompletion
 call plug#end()
 
 syntax enable 		" Syntax highlighting
-colorscheme dracula
+colorscheme darcula
 
 
 " UI
