@@ -1,6 +1,5 @@
 " source $VIMRUNTIME/defaults.vim
 
-set clipboard^=unnamed,unnamedplus
 
 " Vim-Plug  plugin manager.
 " To disable plugin withouth uninstall add `, {'on': []}` after Plug
@@ -24,7 +23,14 @@ Plug 'weirongxu/plantuml-previewer.vim' " Enables PlantUML preview in browser
 
 call plug#end()
 
+set clipboard^=unnamed,unnamedplus " Enables OS clipboard to be used in vim (instead of Vim's clipboard)
+"
+" File type specific
+filetype on 		" File type detection (for syntax highlight etc)
+filetype plugin on 	" File type loads the file ftplugin.vim in runtimepath 
+filetype indent on 	" File type loads the file indent.vim in runtimepath
 syntax enable 		" Syntax highlighting (Enabled by `plug-vim` manager by default 
+
 
 " UI
 colorscheme darcula 	" enable color scheme
