@@ -39,12 +39,21 @@ set laststatus=2 	" Height of status bar
 set statusline=%f 	" Tail of the filename
 set cmdheight=2		" Show cmd line message like error message
 set wildmenu 		" Enable wild menu
+set wildmode=longest,list,full
 set number		" Line numbers
 set relativenumber 	" Show relative line numbers
 " set cursorline 	" Highlight cursor line
+set splitbelow splitright " New split panel opens on right or bellow
+set mouse=a
 let g:lightline = { 'colorscheme': 'darculaOriginal' } 	" apply dracula color scheme to lightline (plugin)
 
 set so=7 " Set given number to cursor when moving vertically
+
+" Tabulator
+set tabstop=4       " The width of a TAB is set to 4.  Still it is a \t. It is just that Vim will interpret it to be having a width of 4.
+set shiftwidth=4 " Indents will have a width of 4
+set softtabstop=4 " Sets the number of columns for a TAB
+set expandtab " Expand TABs to spaces
 
 " String operations
 set omnifunc=syntaxcomplete#Complete	" Omnicompletion (intelegient autocompletion) Ctrl-X,Ctrl-O
@@ -60,7 +69,7 @@ set spell spelllang=en,cs	" enable spell check, set language
 
 " Remaping keys
 " Move between split panels by Ctrl-[hjkl]
-nmap <silent> <c-k> :windcmd k>CR>
+nmap <silent> <c-k> :wincmd k>CR>
 nmap <silent> <c-j> :wincmd j<CR>
 nmap <silent> <c-h> :wincmd h<CR>
 nmap <silent> <c-l> :wincmd l<CR>
