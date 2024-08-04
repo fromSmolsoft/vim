@@ -57,3 +57,10 @@ set hlsearch 		" highlight matches, in normal mode try typing * or even g* when 
 set spell spelllang=en,cs	" enable spell check, set language
 " set spellfile=$HOME/.vim/spell/en.utf-8.add " custom world list for
 " spellcheck
+
+" Remaping keys
+" Move between split panels by Ctrl-[hjkl]
+nmap <silent> <c-k> :windcmd k>CR>
+nmap <silent> <c-j> :wincmd j<CR>
+nmap <silent> <c-h> :wincmd h<CR>
+nmap <silent> <c-l> :wincmd l<CR>
