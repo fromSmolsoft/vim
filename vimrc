@@ -61,6 +61,7 @@ set incsearch 		" Highlight search string matches
 set ignorecase 		" Ignore case sensitivity during search
 set smartcase 		" Override the ignore case setting when searching for capital letters
 set hlsearch 		" highlight matches, in normal mode try typing * or even g* when cursor on string
+set path+=**        " Adds recursive partial file search e.g. :edit *.java will find all java files in sub-directories
 
 " Spellcheking
 set spell spelllang=en,cs	" enable spell check, set language
