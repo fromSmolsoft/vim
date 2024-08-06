@@ -15,6 +15,8 @@ Plug 'mbbill/undotree' 		" Undo visualisation
 
 " Autocompletion 
 " Plug 'ycm-core/YouCompleteMe', { 'do': './install.py' } " Multiple external dependencies needed (Visual Studio Build Tools 2019 CMake, Python, go, node and npm.
+
+Plug 'tpope/vim-commentary' " Comment: line gcc, target gc, paragraf  gcap, uncomment as well. 
 Plug 'ervandew/supertab'	" use <Tab> to insert autocompletion 
 
 Plug 'aklt/plantuml-syntax' 	" syntax : PlantUml
