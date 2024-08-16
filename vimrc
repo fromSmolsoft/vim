@@ -6,7 +6,6 @@
 
 call plug#begin()
 
-
 " -------------------------------------------------------------
 " UI
 " -------------------------------------------------------------
@@ -77,7 +76,6 @@ colorscheme darcula
 " Apply color scheme to status line plugins
 " let g:lightline = { 'colorscheme': 'darculaOriginal' }
 " let g:lightline = {'colorscheme': 'catppuccin_mocha'}
-
 " let g:airline = { 'colorscheme': 'darculaOriginal' }
 let g:airline = {'colorscheme': 'catppuccin_mocha'}
 
@@ -99,7 +97,7 @@ syntax enable|      " Syntax highlighting Enabled by `plug-vim` manager by defau
 
 
 " -------------------------------------------------------------
-" UI
+" UI tweaks
 " -------------------------------------------------------------
 
 set termguicolors|  " True-color (Terminal has to support it) 
