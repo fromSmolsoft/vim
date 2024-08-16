@@ -7,30 +7,55 @@
 
 call plug#begin()
 
+" -------------------------------------------------------------
+" UI
+" -------------------------------------------------------------
+
 Plug 'doums/darcula' 		" Color scheme
-
 Plug 'itchyny/lightline.vim' 	" Status bar line plugin
-Plug 'dense-analysis/ale' 	" Linter
-Plug 'tpope/vim-fugitive' 	" Git wrapper
 
-"VCS (git) visualisation in gutter bar
+" -------------------------------------------------------------
+" Version Control
+" -------------------------------------------------------------
+
+" Git wrapper
+Plug 'tpope/vim-fugitive'
+
+" VCS (git) visualisation in gutter bar
 if has('nvim') || has('patch-8.0.902')
   Plug 'mhinz/vim-signify'
 else
   Plug 'mhinz/vim-signify', { 'tag': 'legacy' }
 endif
 
-Plug 'mbbill/undotree' 		" Undo visualisation
+" Plug 'mbbill/undotree' 		" Vim Undo Tree visualisation
 
-" Autocompletion 
-" Plug 'ycm-core/YouCompleteMe', { 'do': './install.py' } " Multiple external dependencies needed (Visual Studio Build Tools 2019 CMake, Python, go, node and npm.
+" -------------------------------------------------------------
+" Code helpers
+" -------------------------------------------------------------
 
-Plug 'tpope/vim-commentary' " Comment: line gcc, target gc, paragraf  gcap, uncomment as well. 
+" <Tab> autocompletion
 Plug 'ervandew/supertab'	" use <Tab> to insert autocompletion 
 
-Plug 'aklt/plantuml-syntax' 	" syntax : PlantUml
-Plug 'tyru/open-browser.vim' 	" Open URL in browser (also used to render PlantUml
-Plug 'weirongxu/plantuml-previewer.vim' " Enables PlantUML preview in browser
+"Insert or delete brackets, parens, quotes in pair.
+Plug 'jiangmiao/auto-pairs'
+
+" Comment: line gcc, target gc, paragraf  gcap, uncomment as well. 
+Plug 'tpope/vim-commentary' 
+
+" Linter
+Plug 'dense-analysis/ale' 	
+
+" syntax-PlantUml 
+Plug 'aklt/plantuml-syntax' 	
+
+" Open URL in browser (also used to render PlantUml
+" Plug 'tyru/open-browser.vim' 	
+
+" Enables PlantUML preview in browser
+" Plug 'weirongxu/plantuml-previewer.vim' 
+
+" -------------------------------------------------------------
 
 call plug#end()
 
