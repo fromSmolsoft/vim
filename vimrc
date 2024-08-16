@@ -103,8 +103,6 @@ syntax enable|      " Syntax highlighting Enabled by `plug-vim` manager by defau
 " -------------------------------------------------------------
 
 set termguicolors|  " True-color (Terminal has to support it) 
-" export TERM=screen-256color
-set t_Co=256
 set laststatus=2|   " Height of status bar
 set statusline=%f|  " Tail of the filename
 set cmdheight=2|    " Show cmd line message like error message
