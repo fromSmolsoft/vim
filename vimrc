@@ -8,9 +8,18 @@
 call plug#begin()
 
 Plug 'doums/darcula' 		" Color scheme
+
 Plug 'itchyny/lightline.vim' 	" Status bar line plugin
 Plug 'dense-analysis/ale' 	" Linter
 Plug 'tpope/vim-fugitive' 	" Git wrapper
+
+"VCS (git) visualisation in gutter bar
+if has('nvim') || has('patch-8.0.902')
+  Plug 'mhinz/vim-signify'
+else
+  Plug 'mhinz/vim-signify', { 'tag': 'legacy' }
+endif
+
 Plug 'mbbill/undotree' 		" Undo visualisation
 
 " Autocompletion 
